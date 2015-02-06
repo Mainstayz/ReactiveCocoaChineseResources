@@ -19,3 +19,8 @@ QQ讨论群：430033580
 [ReactiveCocoa2实战](http://www.cocoachina.com/ios/20140609/8737.html)
 
 [基于AFNetworking2.0和ReactiveCocoa2.1的iOS REST Client](http://www.cocoachina.com/ios/20140126/7759.html)
+
+
+##官方文档翻译
+
+RAC文档翻译文件夹下
