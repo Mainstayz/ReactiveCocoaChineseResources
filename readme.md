@@ -25,6 +25,12 @@ QQ讨论群：430033580
 
 RAC文档翻译文件夹下
 
+
+##待翻译文章列表
+
+1. [Understanding and using Raccommand](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/)
+
+
 ##一些工程
 
 [ddaajing/ReactiveCocoaDemo](https://github.com/ddaajing/ReactiveCocoaDemo)
