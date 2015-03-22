@@ -20,6 +20,8 @@ QQ讨论群：430033580
 
 [基于AFNetworking2.0和ReactiveCocoa2.1的iOS REST Client](http://www.cocoachina.com/ios/20140126/7759.html)
 
+[ReactiveCocoa基本组件：理解和使用RACCommand](http://blog.csdn.net/womendeaiwoming/article/details/37597779)
+
 
 ##官方文档翻译
 
