@@ -6,11 +6,24 @@ QQ讨论群：430033580
 ##入门
 
 
-[ReactiveCocoa入门教程：第一部分](http://www.cocoachina.com/ios/20150123/10994.html)
+[ReactiveCocoa入门教程：第一部分](http://southpeak.github.io/blog/2014/08/02/reactivecocoazhi-nan-%5B%3F%5D-:xin-hao/)
+
+[ReactiveCocoa入门教程：第二部分](http://southpeak.github.io/blog/2014/08/02/reactivecocoazhi-nan-er-:twittersou-suo-shi-li/)
 
 [说说ReactiveCocoa 2](http://www.cocoachina.com/ios/20140115/7702.html)
 
 [iOS 7最佳实践：一个天气App案例](http://www.cocoachina.com/ios/20140224/7868.html)
+
+[Reactive Cocoa Tutorial [0] = Overview](http://blog.sunnyxx.com/2014/03/06/rac_0_overview/)
+
+[Reactive Cocoa Tutorial [1] = 神奇的Macros](http://blog.sunnyxx.com/2014/03/06/rac_1_macros/)
+
+[Reactive Cocoa Tutorial [2] = 百变RACStream](http://blog.sunnyxx.com/2014/03/06/rac_2_racstream/)
+
+[Reactive Cocoa Tutorial [3] = RACSignal的巧克力工厂](http://blog.sunnyxx.com/2014/03/06/rac_3_racsignal/)
+
+[Reactive Cocoa Tutorial [4] = 只取所需的Filters](http://blog.sunnyxx.com/2014/04/19/rac_4_filters/)
+
 
 ##进阶
 
