@@ -23,14 +23,6 @@ QQ讨论群：430033580
 [ReactiveCocoa基本组件：理解和使用RACCommand](http://blog.csdn.net/womendeaiwoming/article/details/37597779)
 
 
-##官方文档翻译
-
-RAC文档翻译文件夹下
-
-
-##待翻译文章列表
-
-
 ##一些工程
 
 [ddaajing/ReactiveCocoaDemo](https://github.com/ddaajing/ReactiveCocoaDemo)
@@ -38,3 +30,15 @@ RAC文档翻译文件夹下
 [arbullzhang/KoalaFRP](https://github.com/arbullzhang/KoalaFRP)
 说明:FunctionalReactivePixels 做了修改，因为编译不过。
 
+##翻译计划
+如果有同学想翻译什么文章，或者官方文档，请到issue里提出来，可以是自己搜索到的。
+
+###官方文档翻译
+
+RAC文档翻译文件夹下
+
+###认领列表
+
+官方文档FrameworkOverview 认领人:iBenjamin 2015.4.2
+
+###完成列表
