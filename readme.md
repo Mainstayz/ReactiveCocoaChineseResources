@@ -6,11 +6,12 @@ QQ讨论群：430033580
 ##入门
 
 
-[ReactiveCocoa入门教程：第一部分](http://www.cocoachina.com/ios/20150123/10994.html)
+[ReactiveCocoa入门教程：第一部分](http://southpeak.github.io/blog/2014/08/02/reactivecocoazhi-nan-%5B%3F%5D-:xin-hao/)
 
 [说说ReactiveCocoa 2](http://www.cocoachina.com/ios/20140115/7702.html)
 
 [iOS 7最佳实践：一个天气App案例](http://www.cocoachina.com/ios/20140224/7868.html)
+
 
 ##进阶
 
